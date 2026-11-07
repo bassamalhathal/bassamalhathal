@@ -24,7 +24,7 @@ I enjoy exploring how AI, automation, and digital solutions can simplify busines
 - Microsoft Power Automate
 - Microsoft Power BI
 - GitHub
-- AI Development Tools
+- AI-Assisted Development
 - Microsoft 365
 
 ---
